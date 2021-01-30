@@ -1,0 +1,46 @@
+.testimonials-content{
+  margin: 100px 0;
+}
+.media{
+  color: #fff;
+  border: 1px solid #6e7681;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.media .name{
+  color: var(--main-color);
+}
+
+.media .the-date{
+  color: #6e7681;
+}
+.checked {
+  color: orange;
+}
+.feedback{
+  /* border: 1px solid #fff; */
+  padding: 15px;
+  border-radius: 10px;
+  color: #fff;
+  box-shadow: 0 0 20px 0px rgba(255, 255, 255, 0.1);
+}
+.form-feedback input,.form-feedback textarea{
+  margin-bottom: 10px;
+  width: 100%;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #d8d8d8;
+}
+
+.btn-feedback{
+  width: 100%;
+  background-color: var(--main-color);
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+  margin-top: 10px;
+}

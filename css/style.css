@@ -1,0 +1,163 @@
+.main-header {
+  background: url('../images/bgimg/hero-jpg-1.jpeg') no-repeat center;
+  background-size: cover;
+  height: 100%;
+  padding: 100px 0;
+
+}
+
+.header-blog h1 {
+  font-size: 49px;
+  color: var(--main-color);
+  font-weight: 700;
+  margin-top: 0px;
+}
+
+.header-blog p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  font-weight: 400;
+  margin: 30px 0px;
+}
+
+.header-form {
+  border: 15px solid rgba(230, 216, 216, 0.4) !important;
+  border-radius: 40px;
+
+}
+
+.header-form form {
+  padding: 20px 35px 35px 35px;
+  border-radius: 25px;
+  background-color: var(--main-color);
+}
+
+.header-form form p {
+  font-size: 21px;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  padding: 0 0 30px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #fff;
+}
+
+.header-form form label {
+  display: block;
+}
+
+.header-form form input {
+  width: 100%;
+  background: #f6f7f7;
+  padding: 12px;
+  border-radius: 8px !important;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.header-form form textarea {
+  height: 90px;
+  width: 100%;
+  border: none;
+  border-radius: 8px !important;
+  background: #f6f7f7;
+  padding: 12px;
+}
+
+.btn-get-quote {
+  margin: 20px 0;
+  padding: 13px 5px;
+  background: #0b0b0b;
+  width: 100%;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+}
+
+/* Start Home Services */
+.offer-serve {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #fff;
+}
+
+
+
+.offer-blog img {
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.offer-blog h3 {
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+}
+
+.offer-blog p {
+  color: #6e7681;
+}
+
+.offer-blog:hover {
+  border: 2px solid var(--main-color);
+}
+
+.offer-blog:hover h3,
+.offer-blog:hover span {
+  color: var(--main-color);
+} */
+
+/* End Home Services */
+
+
+
+/* Start Section WHy Choose Us */
+.why-choose-us {
+  padding: 80px 0;
+}
+
+.blog-choosing p {
+  font-size: 15px;
+  line-height: 27px;
+  color: #5e6671;
+  font-weight: 400;
+  margin: 22px 0px;
+}
+
+.choosing-img img {
+  border-radius: 10px;
+}
+
+/* End Section WHy Choose Us */
+
+/* Start Section Ready To Start  */
+.banner-section {
+  padding: 80px 0;
+}
+
+.hold-banner {
+  background: #fff;
+  border-radius: 10px;
+  width: 100%;
+  padding: 40px 30px;
+}
+
+.hold-banner h3 {
+  color: var(--main-color);
+}
+
+.banner-btn a {
+  font-size: 17px;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 16px 45px;
+  background: var(--main-color);
+  margin-top: 10px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+/* End Section Ready To Start  */

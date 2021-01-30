@@ -1,0 +1,20 @@
+.wrapping-content{
+  margin-top: 100px;
+}
+
+.main-body-content .title{
+  color: var(--main-color) ;
+  margin-bottom: 20px;
+}
+.main-body-content img{
+  border-radius: 10px;
+}
+.main-body-content .capture{
+  color: #fff;
+  text-transform: capitalize;
+}
+.main-body-content p{
+  color: #83878b;
+}
+
+/* Start Side */
