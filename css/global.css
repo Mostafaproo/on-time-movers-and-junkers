@@ -372,7 +372,20 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 .follow-footer {
   color: #cdcecf;
 }
-
+.follow-footer{
+  font-size: 22px;
+}
+.follow-footer p a{ 
+  margin: 5px;
+}
+.follow-footer p a:hover .fa-facebook{
+  transition: all .4s ease-in-out;
+  color: #0456a3;
+}
+.follow-footer p a:hover .fa-instagram{
+  transition: all .4s ease-in-out;
+  color: #9b1919;
+}
 .map-footer {
   margin-top: 40px;
 }
