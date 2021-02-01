@@ -345,11 +345,12 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 
 .summery-footer {
   margin-bottom: 20px;
-  color: #5e6671;
+  color: #cdcecf;
 }
 
 .btn-footer .get-quote-f {
   width: 100%;
+  display: block;
   background-color: var(--main-color);
   color: #fff;
 }
@@ -362,14 +363,14 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 
 .usful-links li {
   margin-bottom: 20px;
-  color: #5e6671;
+  color: #cdcecf;
 }
 
 .address-footer,
 .calls-footer,
 .mail-footer,
 .follow-footer {
-  color: #5e6671;
+  color: #cdcecf;
 }
 
 .map-footer {
@@ -388,7 +389,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 .copy-rights {
   border-top: 1px solid var(--main-color);
   padding: 10px 0;
-  color: #5e6671;
+  color: #cdcecf;
 }
 
 .copy-rights p {
@@ -396,3 +397,5 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 }
 
 /* End Copy Right Footer */
+
+
